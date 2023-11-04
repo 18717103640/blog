@@ -1,11 +1,13 @@
 ---
-title: Hello World
+title: Hello World wangqiang
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start
+标题
 
 ### Create a new post
+如何插入图片
 
 ``` bash
 $ hexo new "My New Post"
@@ -36,3 +38,7 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+
+
+
+感觉还可以
